@@ -127,58 +127,58 @@ http://localhost/Paws-and-Found/
 
 ## 🏠 Home Page
 
-![Home Page](images/home_page.png)
+![Home Page](images/Home%20Page.png)
 
 ---
 
 ## 🔑 Login & Register
 
-![Login & Register](images/login_register.png)
+![Login & Register](images/Login%20%26%20Register.png)
 
 ---
 
 ## 🐶 Adoption Request
 
-![Adoption Request](images/adoption_request.png)
+![Adoption Request](images/Adoption%20Request.png)
 
 ---
 
 ## 📋 Process Adoption Requests
 
-![Process Adoption Requests](images/process_adoption_requests.png)
+![Process Adoption Requests](images/Process%20Adoption%20Requests.png)
 
 ---
 
 ## 🔍 Lost & Found
 
-![Lost & Found](images/lost_found.png)
+![Lost & Found](images/Lost_Found.png)
 
 ---
 
 ## 📝 Lost Pet Reports
 
-![Lost Pet Reports](images/lost_pet_reports.png)
+![Lost Pet Reports](images/Lost%20Pet%20Reports.png)
 
 ---
 
 ## 🔒 Secure Admin Login
 
-![Secure Admin Login](images/secure_admin_login.png)
+![Secure Admin Login](images/Secure%20Admin%20Login.png)
 
 ---
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/Dashboard%20Overview.png)
 
 ---
 
 ## ⚙️ Manage Pet Content
 
-![Manage Pet Content](images/manage_pet_content.png)
+![Manage Pet Content](images/Manage%20Pet%20Content.png)
+
 
 ---
-
 # 📊 Key Modules
 
 - Pet Adoption Management
