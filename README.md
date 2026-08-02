@@ -1,108 +1,198 @@
-# Paws-and-Found-
-Paws &amp; Found – A PHP &amp; MySQL web application that streamlines pet adoption, lost &amp; found pet reporting, and pet care management through a secure and user-friendly platform.
-
 # 🐾 Paws & Found
 
-Paws & Found is a web-based platform developed to simplify pet adoption while helping communities report and locate lost pets. The system provides an integrated solution where users can browse pets available for adoption, submit adoption requests, report lost or found pets, and access pet care services through a secure and user-friendly interface. :contentReference[oaicite:1]{index=1}
+A web-based pet adoption and lost & found management platform that connects pet adopters, pet owners, and administrators through a secure and user-friendly interface. The system simplifies pet adoption, lost pet reporting, and pet care management while improving community engagement.
 
 ---
 
-## 📌 Features
+## 📌 Project Overview
 
-### 👤 User Features
-- User Registration & Login
-- Browse Available Pets
-- Submit Adoption Requests
-- Report Lost & Found Pets
-- View Pet Care Centers
-- Pet Care Tips
-- Donation & Volunteer Pages
-- Contact & About Pages
-
-### 🔑 Admin Features
-- Secure Admin Dashboard
-- Manage Pet Listings
-- Review Adoption Requests
-- Manage Lost Pet Reports
-- Verify Pet Care Centers
-- Manage Donations
-
-These features enable efficient management of adoption requests and lost pet reports through a centralized platform. :contentReference[oaicite:2]{index=2}
-
----
-
-## 🛠️ Technologies Used
-
-- **Frontend:** HTML, CSS
-- **Backend:** PHP
-- **Database:** MySQL
-- **Local Server:** XAMPP
-- **Version Control:** Git & GitHub
-
-:contentReference[oaicite:3]{index=3}
-
----
-
-## 📂 Project Workflow
-
-1. Requirement Analysis
-2. System Design
-3. Development
-4. Testing
-5. Deployment
-
-The project follows a structured software development process to ensure functionality, usability, and maintainability. :contentReference[oaicite:4]{index=4}
+Paws & Found is designed to centralize pet adoption and lost pet reporting into a single platform. Users can browse pets available for adoption, submit adoption requests, report lost or found pets, and access pet care services. Administrators manage pet records, adoption requests, lost pet reports, and user submissions through a dedicated dashboard.
 
 ---
 
 ## 🎯 Objectives
 
 - Simplify the pet adoption process.
-- Provide a centralized lost & found reporting system.
+- Provide a centralized lost & found pet reporting system.
 - Improve communication between adopters, pet owners, and administrators.
-- Support animal welfare through technology.
-
-:contentReference[oaicite:5]{index=5}
+- Digitize pet management with an easy-to-use web platform.
 
 ---
 
-## 🚀 Future Enhancements
+## ✨ Features
 
-- Email/SMS Notifications
-- Location-Based Search
-- Mobile Responsive Design
-- Direct User Messaging
-- Analytics Dashboard
-- Enhanced Role-Based Authentication
+### 👤 User Features
 
-:contentReference[oaicite:6]{index=6}
+- User Registration & Login
+- Browse Available Pets
+- View Pet Details
+- Submit Adoption Requests
+- Report Lost Pets
+- Report Found Pets
+- View Lost & Found Listings
+- Pet Care Centre Listings
+- Book Pet Care Services
+- Donation & Volunteer Information
+- Pet Care Tips
+
+### 🔐 Admin Features
+
+- Secure Admin Login
+- Dashboard Overview
+- Manage Pet Listings
+- Manage Adoption Requests
+- Manage Lost Pet Reports
+- Verify Pet Care Centres
+- Manage User Submissions
 
 ---
 
-## 📸 Screenshots
+## 🛠 Technologies Used
 
-Add screenshots of:
+- PHP
+- HTML
+- CSS
+- MySQL
+- XAMPP
+- Git & GitHub
+
+---
+
+## ⚙️ System Workflow
+
+1. User registers or logs in.
+2. Browse pets available for adoption.
+3. Submit an adoption request.
+4. Report lost or found pets.
+5. Admin reviews and manages submissions.
+6. Pet status is updated accordingly.
+
+---
+
+## 📂 Project Structure
+
+```text
+Paws-and-Found/
+│
+├── admin/
+├── assets/
+├── css/
+├── images/
+├── includes/
+├── js/
+├── uploads/
+├── index.php
+├── database.sql
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Taslima-Yeasmin-Oyshi/Paws-and-Found.git
+```
+
+Move the project into the XAMPP `htdocs` directory.
+
+Import the database into MySQL.
+
+Start **Apache** and **MySQL** using XAMPP.
+
+Open your browser and visit:
+
+```text
+http://localhost/Paws-and-Found/
+```
+
+---
+
+## 📷 Screenshots
+
+> Add screenshots of:
+
 - Home Page
 - Login Page
 - Available Pets
-- Adopt a Pet
 - Lost & Found
+- Adoption Request
 - Admin Dashboard
-- Manage Pets
-- Manage Adoptions
+
+Example:
+
+```markdown
+![Home Page](images/home.png)
+
+![Admin Dashboard](images/admin_dashboard.png)
+```
 
 ---
 
-## 🤝 Contributing
+## 📊 Key Modules
 
-Contributions, suggestions, and improvements are welcome.
+- Pet Adoption
+- Lost & Found Reporting
+- Pet Care Services
+- User Authentication
+- Admin Dashboard
+- Donation & Volunteer Module
+
+---
+
+## ⚠️ Limitations
+
+- No real-time notifications.
+- Manual admin approval.
+- No direct messaging.
+- Limited mobile responsiveness.
+- No location-based filtering.
+
+---
+
+## 🔮 Future Improvements
+
+- Email/SMS notifications
+- Advanced search filters
+- Location-based search
+- Mobile-responsive interface
+- Direct messaging
+- Analytics dashboard
+
+---
+
+## 👥 Contributors
+
+- Taslima Yeasmin Oyshi
+- Abdullah Al Masum
+
+**Department of Computer Science & Engineering**  
+**Varendra University**
+
+---
+
+## 📄 Project Report
+
+📥 **[View Project Report](project report.pdf)**
+
+---
+
+## 📚 References
+
+- Petfinder
+- Adopt-a-Pet
+- PawBoost
+- PHP Documentation
+- MySQL Documentation
 
 ---
 
 ## 📄 License
 
-This project is developed for educational purposes.
+This project was developed for academic and educational purposes.
 
 ---
 
-### ⭐ If you like this project, don't forget to give it a star!
+⭐ If you found this project useful, please consider giving it a star!
