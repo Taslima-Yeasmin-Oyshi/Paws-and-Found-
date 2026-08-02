@@ -109,27 +109,29 @@ http://localhost/Paws-and-Found/
 ```
 
 ---
-
 ## 📷 Screenshots
 
-> Add screenshots of:
+### Home Page
 
-- Home Page
-- Login Page
-- Available Pets
-- Lost & Found
-- Adoption Request
-- Admin Dashboard
+![Home Page](images/home_page.png)
 
-Example:
+### Login Page
 
-```markdown
-![Home Page](images/home.png)
+![Login Page](images/login_page.png)
+
+### Available Pets
+
+![Available Pets](images/available_pets.png)
+
+### Lost & Found
+
+![Lost & Found](images/lost_found.png)
+
+### Admin Dashboard
 
 ![Admin Dashboard](images/admin_dashboard.png)
-```
-
 ---
+
 
 ## 📊 Key Modules
 
@@ -178,6 +180,12 @@ Example:
 📥 **[View Project Report](Paws_and_Found_Proposal.pdf)**
 
 ---
+
+## 📊 Presentation
+
+The project presentation is available below:
+
+📥 **[View Presentation](Paws-and-Found.pptx)**
 
 ## 📚 References
 
